@@ -12,5 +12,5 @@ title = "index"
 
 ## Header 2
 
-* [Executive](./executive/)
-* [Marketing](./marketing/)
+* [Executive](/management/executive/)
+* [Marketing](/management/marketing/)
