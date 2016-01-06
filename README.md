@@ -1,4 +1,9 @@
 # Sample Hugo project for Documentation
+## BaseURL
+
+Set *baseurl* in config.toml if you want to use navigation menus.
+
+    baseurl = "http://mysite.com/"
 
 ## Documentation Theme
 hugo server --buildDrafts --theme=bootie-docs
