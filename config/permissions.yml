@@ -1,0 +1,19 @@
+root:
+  users: ['admin']
+  children:
+    - __kemal__:
+        users: ['*']
+    - static:
+        users: ['*']
+    - engineering:
+        users: ['john']
+    - management:
+        users: ['brown']
+        children:
+          - executive:
+              users: ['george', 'wilma', 'mary']
+          - marketing:
+              users: ['mary']
+              children:
+                - ads:
+                    users: ['george']
