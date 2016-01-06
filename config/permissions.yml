@@ -3,6 +3,10 @@ root:
   children:
     - __kemal__:
         users: ['*']
+    - css:
+        users: ['*']
+    - js:
+        users: ['*']
     - engineering:
         users: ['john']
     - management:
