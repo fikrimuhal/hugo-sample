@@ -9,3 +9,4 @@ title = "_index"
 
 * [Engineering](/engineering/)
 * [Management](/management/)
+* [Advertisement](/management/ads/)
