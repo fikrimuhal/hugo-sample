@@ -1,5 +1,5 @@
 HUGO?=hugo
-OUTPUTDIR?=$(CURDIR)/public
+OUTPUTDIR?=/tmp/hugo-public
 THEME?=bootie-docs
 
 html:
